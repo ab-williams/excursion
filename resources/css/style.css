@@ -2,16 +2,35 @@ body {
   font-family: Verdana, Geneva, Tahoma, sans-serif;
   background-color: black;
   text-align: center;
+  color: white;
 }
 
 header h1 {
   font-size: 50px;
   font-weight: normal;
   text-align: center;
-  color: white;
 }
 
-header p a {
+h2 {
+  font-size: 42px;
+  font-weight: 300;
+}
+
+#travel-guide {
+  font-size: 21px;
+  color: gray;
+}
+
+p a {
   color: aquamarine;
   font-size: 16px;
+}
+
+#phone {
+  margin-top: 20px;
+}
+
+.copyright {
+  text-align: right;
+  color: gray;
 }
